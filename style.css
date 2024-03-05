@@ -1,0 +1,33 @@
+body{
+    background-image: url('img/bggra2.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+
+}
+
+.btn:hover{
+    background-color: rgb(101,67,33);
+    color: white;
+}
+
+.btn-outline:hover{
+    background-color: rgba(101,67,33, 0);
+    color: white;
+}
+
+.nav-item:hover{
+    background-color: rgba(101,67,33);
+    border-radius: 5px;
+}
+
+.btn-google {
+    color: white !important;
+    background-color: #ea4335;
+  }
+  
+  .btn-facebook {
+    color: white !important;
+    background-color: #3b5998;
+  }
