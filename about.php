@@ -46,64 +46,67 @@
         </div>
     </nav>
     </header>
-
+ 
     <section id="about" class="about">
       <div class="container">
         <br><br>
         <div class="row content">
-          <div class="col-lg-6">
-          <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-size: 5rem; color:beige;">About Us</h1>
-            <h4 style="font-family:Georgia, 'Times New Roman', Times, serif; color:beige;">Start your day with a delicious cup of coffee.</h4>
+          <div class="col-lg-5">
+          <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-size: 4rem; color:beige;">About Us</h1>
+          <br>
+          <p style="color: beige;">
+              If you’re looking for a place to enjoy a nice cup of coffee while you study, then you can’t go wrong with <strong>Hello, coffee.</strong> 
+              We have a wide selection of coffees and pastries to choose from. The coffee beans we use are all made with high-quality and locally-farmed coffee beans. 
+              Our place is good for people who wants to hang out, study, or just want some peace. 
+          </p>
+          <!-- <h4 style="font-family:Georgia, 'Times New Roman', Times, serif; color:beige;">Start your day with a delicious cup of coffee.</h4> -->
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
-            </ul>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+          <div class="col-lg-7">
+          <img src="img/coffeeshop.jpg" class="rounded mx-auto d-block" alt="cafe" style="max-width: 100%; border-radius:5px;">
           </div>
         </div>
 
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= About List Section ======= -->
+    <br><br><br><br>
+
     <section id="about-list" class="about-list">
       <div class="container">
 
-        <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1">
+        <div class="row" style="background-color:rgb(0,0,0,0.5); padding:30px;">
+        <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2rem; color:beige; text-align: center;"> - Benefits and Features - </h1>
+        <br><br><br>
+          <div class="col-3 d-flex justify-content-center text-center">
             <div class="icon-bi mt-5 mt-lg-0">
-                <i class="bi bi-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-            </div>
-            <div class="icon-box mt-5">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                <i class="bi bi-receipt" style="font-size: 50px; color:rgb(140, 95, 50);"></i>
+              <h5 style="color:beige;">Affordable price for high quality products</h5>
             </div>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("img/bg2.jpg"); background-size:contain; background-repeat:no-repeat;'></div>
+
+          <div class="col-3 d-flex justify-content-center text-center">
+            <div class="icon-bi mt-5 mt-lg-0">
+                <i class="bi bi-cup-hot" style="font-size: 50px; color:rgb(140, 95, 50);"></i>
+              <h5  style="color:beige;">Wide selection of coffees and pastries</h5>
+            </div>
+          </div>
+        
+          <div class="col-3 d-flex justify-content-center text-center">
+            <div class="icon-bi mt-5 mt-lg-0">
+                <i class="bi bi-people" style="font-size: 50px; color:rgb(140, 95, 50);"></i>
+              <h5  style="color:beige;">Area is spacious enough for everyone</h5>
+            </div>
+          </div>
+
+          <div class="col-3 d-flex justify-content-center text-center">
+            <div class="icon-bi mt-5 mt-lg-0">
+                <i class="bi bi-wifi" style="font-size: 50px; color:rgb(140, 95, 50);"></i>
+              <h5  style="color:beige;">Offers free Wi-Fi for all</h5>
+            </div>
+          </div>
+        
+          
+          
         </div>
 
       </div>

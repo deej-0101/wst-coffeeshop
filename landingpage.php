@@ -70,7 +70,7 @@
   
     <section id="caro">
     <div class="container" style="border: 4px solid rgb(101,67,33); border-radius: 5px; background-color: rgb(0,0,0, 0.7); padding: 15px;">
-        <h3 style="padding-top: 10px; text-align: center; font-family:Georgia; font-size:2rem; color:beige;"><strong>BEST SELLERS</strong></h3>
+        <h3 style="padding-top: 10px; text-align: center; font-family:Georgia; font-size:2rem; color:beige;"><strong> - Best Sellers - </strong></h3>
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <!-- <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
@@ -96,7 +96,7 @@
                                             <p class="card-text mb-0" style="color:beige;">PHP70.00 -<strong> Popular Now</strong></p> 
                                             <br>
                                             <!-- <p class="card-text mb-0" style="color:beige; display: inline-block;">ADD TO BASKET</p> -->
-                                            <button type="button" class="btn btn-md btn-outline-primary" style="color:rgb(255,255,255); border-color:rgb(101,67,33);">
+                                            <button type="button" class="btn btn-md btn-primary" style="color:rgb(255,255,255); background-color:rgb(140, 95, 50); border-color:rgb(101,67,33);">
                                                 <i class="bi bi-plus-circle"></i> Add to basket
                                             </button>
                                         </div>
@@ -118,7 +118,7 @@
                                             <p class="card-text mb-0" style="color:beige;">PHP150.00</p> 
                                             <br>
                                             <!-- <p class="card-text mb-0" style="color:beige; display: inline-block;">ADD TO BASKET</p> -->
-                                            <button type="button" class="btn btn-md btn-outline-primary" style="color:rgb(255,255,255); border-color:rgb(101,67,33);">
+                                            <button type="button" class="btn btn-md btn-primary" style="color:rgb(255,255,255); background-color:rgb(140, 95, 50); border-color:rgb(101,67,33);">
                                                 <i class="bi bi-plus-circle"></i> Add to basket
                                             </button>
                                         </div>
@@ -145,7 +145,7 @@
                                             <p class="card-text mb-0" style="color:beige;">PHP150.00</p> 
                                             <br>
                                             <!-- <p class="card-text mb-0" style="color:beige; display: inline-block;">ADD TO BASKET</p> -->
-                                            <button type="button" class="btn btn-md btn-outline-primary" style="color:rgb(255,255,255); border-color:rgb(101,67,33);">
+                                            <button type="button" class="btn btn-md btn-outline-primary" style="color:rgb(255,255,255); background-color:rgb(140, 95, 50); border-color:rgb(101,67,33);">
                                                 <i class="bi bi-plus-circle"></i> Add to basket
                                             </button>
                                         </div>
@@ -167,7 +167,7 @@
                                             <p class="card-text mb-0" style="color:beige;">PHP150.00</p> 
                                             <br>
                                             <!-- <p class="card-text mb-0" style="color:beige; display: inline-block;">ADD TO BASKET</p> -->
-                                            <button type="button" class="btn btn-md btn-outline-primary" style="color:rgb(255,255,255); border-color:rgb(101,67,33);">
+                                            <button type="button" class="btn btn-md btn-outline-primary" style="color:rgb(255,255,255); background-color:rgb(140, 95, 50); border-color:rgb(101,67,33);">
                                                 <i class="bi bi-plus-circle"></i> Add to basket
                                             </button>
                                         </div>

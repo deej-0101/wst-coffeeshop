@@ -30,9 +30,13 @@ body{
   .btn-facebook {
     color: white !important;
     background-color: #3b5998;
+    background-color:rgb(140, 95, 50);
   }
 
 .carousel{
     background-color:rgb(255,255,255,0);
 }
 
+h5{
+    color: beige;
+}
