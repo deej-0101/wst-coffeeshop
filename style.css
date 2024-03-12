@@ -31,3 +31,8 @@ body{
     color: white !important;
     background-color: #3b5998;
   }
+
+.carousel{
+    background-color:rgb(255,255,255,0);
+}
+
