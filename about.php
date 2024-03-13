@@ -74,7 +74,7 @@
     <section id="about-list" class="about-list">
       <div class="container">
 
-        <div class="row" style="background-color:rgb(0,0,0,0.5); padding:30px;">
+        <div class="row" style="background-color:rgb(0,0,0,0.7); padding:30px;">
         <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2rem; color:beige; text-align: center;"> - Benefits and Features - </h1>
         <br><br><br>
           <div class="col-3 d-flex justify-content-center text-center">
@@ -112,7 +112,9 @@
       </div>
     </section>
 
-
+  
+    <br><br><br><br>
+    
     <div class="container">
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
     <p class="col-md-4 mb-0 text-body-secondary" style="color:rgb(255,255,255);">© 2024 Hello, Coffee. Inc</p>
