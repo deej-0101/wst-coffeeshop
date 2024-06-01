@@ -12,6 +12,7 @@
 </head>
 
     <body>
+    <section id="home">
     <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
@@ -27,13 +28,13 @@
                     <a class="nav-link" href="#" style="color:rgb(255,255,255);">About</a>
                     </li>   
                     <li class="nav-item">
-                    <a class="nav-link" href="#" style="color:rgb(255,255,255);">Menu</a>
+                    <a class="nav-link btn disabled" aria-disabled="true" href="#" style="color:rgb(255,255,255);">Menu</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#" style="color:rgb(255,255,255);">Apps</a>
+                    <a class="nav-link btn disabled" aria-disabled="true" href="#" style="color:rgb(255,255,255);">Apps</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#" style="color:rgb(255,255,255); ">Contact</a>
+                    <a class="nav-link btn disabled" aria-disabled="true" href="#" style="color:rgb(255,255,255); ">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -46,6 +47,9 @@
         </div>
     </nav>
     </header>
+    </section>  
+
+   
  
     <section id="about" class="about">
       <div class="container">
@@ -67,20 +71,26 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section>
 
-    <br><br><br><br>
+    <div class="container" style="text-align: center;">
+        <a href="#about-list"><i class="bi bi-chevron-compact-down h1" style="font-size: 100px; color: beige; text-shadow: 2px 2px 4px #000000;"></i></a>
+    </div>
+
+
+    <br><br><br><br><br><br><br><br>
 
     <section id="about-list" class="about-list">
       <div class="container">
 
-        <div class="row" style="background-color:rgb(0,0,0,0.7); padding:30px;">
+        <div class="row" style="background-color:rgb(0,0,0,0.7); padding:50px;">
         <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-size: 2rem; color:beige; text-align: center;"> - Benefits and Features - </h1>
         <br><br><br>
+
           <div class="col-3 d-flex justify-content-center text-center">
             <div class="icon-bi mt-5 mt-lg-0">
                 <i class="bi bi-receipt" style="font-size: 50px; color:rgb(140, 95, 50);"></i>
-              <h5 style="color:beige;">Affordable price for high quality products</h5>
+              <h5 style="color:beige;">Affordable price for high quality goods</h5>
             </div>
           </div>
 
@@ -98,37 +108,38 @@
             </div>
           </div>
 
-          <div class="col-3 d-flex justify-content-center text-center">
+          <div class="col-2 d-flex justify-content-center text-center">
             <div class="icon-bi mt-5 mt-lg-0">
                 <i class="bi bi-wifi" style="font-size: 50px; color:rgb(140, 95, 50);"></i>
               <h5  style="color:beige;">Offers free Wi-Fi for all</h5>
             </div>
           </div>
         
-          
-          
         </div>
 
       </div>
     </section>
 
-  
     <br><br><br><br>
+
+    <div class="container" style="text-align: center;">
+        <a href="#home"><i class="bi bi-chevron-compact-up h1" style="font-size: 100px; color: beige; text-shadow: 2px 2px 4px #000000;"></i></a>
+    </div>
     
     <div class="container">
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-    <p class="col-md-4 mb-0 text-body-secondary" style="color:rgb(255,255,255);">© 2024 Hello, Coffee. Inc</p>
+    <p class="col-md-4 mb-0 text-body-secondary" style="color:rgb(214,195,126);">© 2024 Hello, Coffee. Inc</p>
 
     <!-- <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
       <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
     </a> -->
 
     <ul class="nav col-md-4 justify-content-end">
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(255,255,255);">Home</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(255,255,255);">Features</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(255,255,255);">Pricing</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(255,255,255);">FAQs</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(255,255,255);">About</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(214,195,126);">Home</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(214,195,126);">Features</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(214,195,126);">Pricing</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(214,195,126);">FAQs</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary" style="color:rgb(214,195,126);">About</a></li>
     </ul>
   </footer>
 </div>

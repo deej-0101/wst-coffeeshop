@@ -28,13 +28,13 @@
                     <a class="nav-link" href="about.php" style="color:rgb(255,255,255);">About</a>
                     </li>   
                     <li class="nav-item">
-                    <a class="nav-link" href="#" style="color:rgb(255,255,255);">Menu</a>
+                    <a class="nav-link btn disabled" aria-disabled="true" href="#" style="color:rgb(255,255,255);">Menu</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#" style="color:rgb(255,255,255);">Apps</a>
+                    <a class="nav-link btn disabled" aria-disabled="true" href="#" style="color:rgb(255,255,255);">Apps</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#" style="color:rgb(255,255,255); ">Contact</a>
+                    <a class="nav-link btn disabled" aria-disabled="true" href="#" style="color:rgb(255,255,255); ">Contact</a>
                     </li>
                 </ul>
             </div>
